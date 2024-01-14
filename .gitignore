@@ -1,0 +1,18 @@
+# Ignora i file di ambiente
+.env
+env
+
+# ignora i file di checkpoints di jupyter
+.ipynb_checkpoints
+
+# ignora file di note
+note.txt
+
+# ignora i file di cache
+__pycache__
+
+# ignora i file di configurazione di vscode
+.vscode
+
+#ignora il file con random agent
+random_agent.ipynb
